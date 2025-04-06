@@ -179,7 +179,7 @@ function gameWin() {
         border-radius: 10px;
     ">
         <img src="dead.png" alt="Winner" style="width: 200px; height: auto;">
-        <h2 style="font-size: 28px; margin-top: -80px ">🎉 Congratulations, You killed these! crown price 🇸🇦: ${hits}</h2>
+        <h2 style="font-size: 28px; margin-top: -80px ">🎉 Congratulations, You killed these! crown Prince 🇸🇦: ${hits}</h2>
         <button onclick="restartGame()">Start Again</button>
     </div>`;
     message.style.display = "block";  
